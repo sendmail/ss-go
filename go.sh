@@ -5,17 +5,17 @@ export PATH
 #   System Required:  CentOS, Debian, Ubuntu
 #   Description: One click Install Shadowsocks-go server
 #   Author: Teddysun <i@teddysun.com>
-#   Thanks: @cyfdecyf <https://twitter.com/cyfdecyf>
-#   Intro:  https://teddysun.com/392.html
+#   
+#  
 #===============================================================================================
 
 clear
 echo ""
 echo "#############################################################"
 echo "# One click Install Shadowsocks-go server                   #"
-echo "# Intro: https://teddysun.com/392.html                      #"
+echo "# Intro:                                                    #"
 echo "# Author: Teddysun <i@teddysun.com>                         #"
-echo "# Thanks: @cyfdecyf <https://twitter.com/cyfdecyf>          #"
+echo "# Thanks:                                                   #"
 echo "#############################################################"
 echo ""
 
